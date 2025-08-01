@@ -1,6 +1,6 @@
 @font-face {
   font-family: "MiFuente";
-  src: url("fuente/High\ Empathy.ttf") format("truetype");
+  src: url "fuente High Empathy.ttf" format("truetype");
 }
 body {
   font-family: "MiFuente", sans-serif;
