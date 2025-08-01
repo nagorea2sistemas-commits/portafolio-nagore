@@ -1,0 +1,134 @@
+@font-face {
+  font-family: "MiFuente";
+  src: url("/fuente/High\ Empathy.ttf") format("truetype");
+}
+body {
+  font-family: "MiFuente", sans-serif;
+  font-size: 30px;
+  body {
+  padding-bottom: 100px; /* ✅ Espacio extra al final */
+}
+
+}
+.titulo {
+  color: rgb(175, 223, 223);
+  background-color: rgb(241, 241, 241);
+  text-align: center;
+}
+
+.alberto {
+  color: rgb(181, 227, 245);
+  text-decoration: underline;
+  font-weight: bold;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  width: 600px;
+  border: 3px solid #c099c0;
+  border-radius: 10px;
+}
+img {
+  max-width: 400px;
+  margin: 20px auto;
+  font-size: 18px;
+  color: #817f7f;
+  background-color: #e5e6ca;
+  padding: 10px;
+  border-radius: 8px;
+  list-style-type: square;
+}
+.parrafo {
+  font-size: px;           /* Tamaño del texto */
+  color: #333;               /* Color oscuro (casi negro) */
+  text-align: justify;       /* Justifica el texto */
+  background-color: #f9f9f9; /* Color de fondo suave */
+  padding: 15px;             /* Espacio interior */
+  border-radius: 8px;        /* Esquinas redondeadas */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  max-width: 850px;          /* Ancho máximo */
+  margin: 20px auto;         /* Centrado en la página */
+}
+.tarjeta {
+  background-color: #f4f4f4;
+  border: 2px solid #d9d9d9;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 700px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+body {
+  font-family: "MiFuente", sans-serif;
+  font-size: 30px;
+  background-color: #fef6f9; /* Fondo suave rosado */
+}
+.parrafo {
+  font-size: 25px;
+  color: #333;
+  text-align: justify;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 40px auto 20px auto; /* espacio antes y después del párrafo */
+}
+
+.imagen {
+  display: block;
+  margin: 20px auto 40px auto; /* espacio antes y después de la imagen */
+  width: 600px;
+  border: 3px solid #c099c0;
+  border-radius: 10px;
+}
+.titulo {
+  font-size: 50px; /* tamaño del h1 */
+  color: rgb(230, 228, 229);
+  background-color: rgb(109, 116, 116);
+  text-align: center;
+}
+
+.nagore {
+  font-size: 35px; /* tamaño del h2 */
+  color: rgb(51, 53, 54);
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.parrafo {
+  font-size: 25px; /* tamaño del texto de párrafos */
+  /* (aquí dejas el resto como ya lo tienes) */
+}
+
+.lista li {
+  
+  font-size: 28px;    /* 🔸 Aumenta el tamaño del texto */
+  margin-bottom: 10px; /* 🔸 Espacio entre cada línea de hobby */
+}
+
+
+.boton {
+  font-size: 24px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.nagore {
+  font-size: 35px;
+  color: rgb(181, 227, 245);
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 30px; /* 👈 esto separa del borde izquierdo */
+  .imagen {
+  display: block;
+  margin: 40px auto;  /* 🔸 Aumentamos espacio arriba y abajo */
+  width: 600px;
+  border: 3px solid #c099c0;
+  border-radius: 10px;
+  .titulo {
+  font-size: 60px; /* 🔸 Aumenta el número para que sea más grande */
+  color: rgb(231, 184, 213);
+  background-color: rgb(234, 240, 240);
+  text-align: center;
+  margin-top: 30px;
+  
